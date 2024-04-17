@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aps4G1U/ElCvWKe7dg8GELWaQ4ELZTJJ8Wb31oPYmHo=",
+  "Source": "AppointmentManagementMicroservices",
+  "BasePath": "_content/AppointmentManagementMicroservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

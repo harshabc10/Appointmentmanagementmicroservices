@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\dto\\updateappointmentstatusrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\dto\\updateappointmentstatusrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\dto\\doctorinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\dto\\doctorinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\dto\\patientbookingrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\dto\\patientbookingrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\repo\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\repo\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\repo\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\repo\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\dto\\patientbookingresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\dto\\patientbookingresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\entity\\appointmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\entity\\appointmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|d:\\c#(lytx)\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices\\appointmentmanagementmicroservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EF59C71-AEA0-42A0-8D7F-D26F4C30D62D}|AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj|solutionrelative:appointmentmanagementmicroservices\\appointmentmanagementmicroservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAppointmentStatusRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\UpdateAppointmentStatusRequestModel.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\DTO\\UpdateAppointmentStatusRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\UpdateAppointmentStatusRequestModel.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\DTO\\UpdateAppointmentStatusRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:45:49.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAApwKUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:31:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientBookingRequestModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\PatientBookingRequestModel.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\DTO\\PatientBookingRequestModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\PatientBookingRequestModel.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\DTO\\PatientBookingRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:43:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Repo\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Repo\\IAppointmentService.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Repo\\IAppointmentService.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Repo\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:30:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentEntity.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Entity\\AppointmentEntity.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Entity\\AppointmentEntity.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Entity\\AppointmentEntity.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Entity\\AppointmentEntity.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:28:24.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorInfoDTO.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\DoctorInfoDTO.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\DTO\\DoctorInfoDTO.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\DoctorInfoDTO.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\DTO\\DoctorInfoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:29:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\DTO\\AppointmentDTO.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\AppointmentDTO.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\DTO\\AppointmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:57:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientBookingResponseModel.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\PatientBookingResponseModel.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\DTO\\PatientBookingResponseModel.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\DTO\\PatientBookingResponseModel.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\DTO\\PatientBookingResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:56:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Repo\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Repo\\AppointmentRepository.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Repo\\AppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Repo\\AppointmentRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAjwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:32:31.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Program.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Program.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:11:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\appsettings.Development.json",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\appsettings.Development.json",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\appsettings.Development.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T06:11:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\Context\\DapperContext.cs",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\Context\\DapperContext.cs",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:10:59.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentManagementMicroservices.csproj",
+              "DocumentMoniker": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj",
+              "RelativeDocumentMoniker": "AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj",
+              "ToolTip": "D:\\C#(LYTX)\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj",
+              "RelativeToolTip": "AppointmentManagementMicroservices\\AppointmentManagementMicroservices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T05:09:20.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

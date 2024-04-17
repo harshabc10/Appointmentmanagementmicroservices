@@ -1,0 +1,6 @@
+@AppointmentManagementMicroservices_HostAddress = http://localhost:5042
+
+GET {{AppointmentManagementMicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
